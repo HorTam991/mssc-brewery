@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" filepath="$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" filepath="$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-brewery.iml" filepath="$PROJECT_DIR$/mssc-brewery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mssc-brewery-eureka/mssc-brewery-eureka.iml" filepath="$PROJECT_DIR$/mssc-brewery-eureka/mssc-brewery-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-brewery-gateway/mssc-brewery-gateway.iml" filepath="$PROJECT_DIR$/mssc-brewery-gateway/mssc-brewery-gateway.iml" />
     </modules>
   </component>
