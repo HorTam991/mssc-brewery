@@ -47,14 +47,10 @@ S
 #mssc-beer-inventory-service/pom.xml,1\c\1cf02e4bbd1807a45946d3738f18918f31596cab
 O
 mssc-beer-order-service/pom.xml,9\1\91d1f1e65de4cdea49c65a4932a22bfeabbb50ba
-L
-mssc-brewery-gateway/pom.xml,c\1\c1a4bd25e37e38868376e3e39a4f7e9b09d08540
 ¶
 vmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java,6\6\6681195d0c1fda637871ffe26c6d24492de0daa5
 ö
 jmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationListener.java,3\f\3fa61c9787554c36fbdcc816ddf7ea771830fee5
-É
-Smssc-brewery-gateway/src/main/java/com/sfg/gateway/config/LocalHostRouteConfig.java,4\c\4c1b0dd4229381c252a1d76a397ef72cf0578776
 ù
 mmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationServiceImpl.java,b\4\b408aeef512eeeadf3e7da0d9479d631203e98f2
 O
