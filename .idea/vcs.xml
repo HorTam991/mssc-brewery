@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/mssc-beer-inventory-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mssc-beer-order-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mssc-beer-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mssc-brewery-config-repo" vcs="Git" />
   </component>
 </project>
