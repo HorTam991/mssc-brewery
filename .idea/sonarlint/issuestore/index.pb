@@ -9,8 +9,6 @@ Zmssc-beer-service/src/main/java/guru/springframework/msscbeerservice/config/Jms
 lmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/NewInventoryListener.java,7\7\7745b730a3be8a66d561410cf2eda8a9c7a3bf82
 L
 mssc-brewery-gateway/HELP.md,a\f\afd029c0c1e9652aa8cfc2ea08580152ed68446d
-ó
-gmssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/controller/BeerController.java,a\7\a7df6c85f9f09dfdac29a5ba850cc842e2393536
 Ö
 Umssc-brewery-gateway/src/main/java/com/sfg/gateway/MsscBreweryGatewayApplication.java,d\9\d9653ab62d62c1aecaf7b4c5e13e2b480a7015f8
 á
@@ -89,7 +87,5 @@ K
 fmssc-brewery-eureka/src/main/java/guru/sfg/brewery/msscbreweryeureka/MsscBreweryEurekaApplication.java,a\8\a863373bed292a014d65cd9f7ed7f006eab8a3cc
 õ
 kmssc-brewery-eureka/src/test/java/guru/sfg/brewery/msscbreweryeureka/MsscBreweryEurekaApplicationTests.java,8\c\8c9778a09c0f7858a40e6fa99de23d100cad0033
-K
-mssc-brewery-eureka/pom.xml,1\6\162ac2568afcdf36e03e3c44a1ca30d666646df0
 è
 _mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/config/LocalDiscovery.java,4\8\486baa1bc16ecc71da6e4711da906cf50ceef83c
