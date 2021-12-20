@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mscc-inventory-failover/mscc-inventory-failover.iml" filepath="$PROJECT_DIR$/mscc-inventory-failover/mscc-inventory-failover.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-beer-inventory-service/mssc-beer-inventory-service.iml" filepath="$PROJECT_DIR$/mssc-beer-inventory-service/mssc-beer-inventory-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" filepath="$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" filepath="$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" />

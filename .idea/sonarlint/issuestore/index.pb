@@ -53,8 +53,6 @@ vmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/c
 jmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationListener.java,3\f\3fa61c9787554c36fbdcc816ddf7ea771830fee5
 ù
 mmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationServiceImpl.java,b\4\b408aeef512eeeadf3e7da0d9479d631203e98f2
-O
-mssc-brewery-gateway/.gitignore,d\3\d356d09d416f1768b17c3198c036783d1afb3d6e
 ï
 e.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_2_RELEASE.xml,5\5\55b5d758181d9e85924d6142476a593651fa7563
 ù

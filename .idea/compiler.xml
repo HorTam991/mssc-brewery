@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mssc-brewery-gateway" />
+        <module name="mscc-inventory-failover" />
         <module name="mssc-brewery-eureka" />
       </profile>
       <profile name="Annotation profile for mssc-beer-order-service" enabled="true">
@@ -36,6 +37,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mscc-inventory-failover" target="11" />
       <module name="mssc-beer-inventory-service" target="11" />
       <module name="mssc-beer-order-service" target="11" />
       <module name="mssc-beer-service" target="11" />
@@ -45,6 +47,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mscc-inventory-failover" options="-parameters" />
       <module name="mssc-beer-inventory-service" options="-parameters -Amapstruct.defaultComponentModel=spring" />
       <module name="mssc-beer-order-service" options="-parameters -Amapstruct.defaultComponentModel=spring" />
       <module name="mssc-beer-service" options="-parameters -Amapstruct.defaultComponentModel=spring" />
