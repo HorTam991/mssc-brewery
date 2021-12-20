@@ -1,6 +1,4 @@
 
-—
-gmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java,7\6\76ece1d2d372ab73ea80a788ea2be70675e64f30
 ’
 bmssc-beer-order-service/src/main/java/guru/sfg/beer/order/service/BeerOrderServiceApplication.java,0\e\0eb174475ae72ac82d1da15e0e70e8bd664eb3bf
 Š
@@ -41,10 +39,6 @@ d
 K.idea/libraries/Maven__org_springframework_spring_webflux_5_2_6_RELEASE.xml,7\5\7586655b59fa0a72df0fc54f8baa3cfca6851b00
 {
 Kmssc-brewery-gateway/src/main/java/com/sfg/gateway/config/GoogleConfig.java,e\c\eca29f04921f10ab02fcf08bcb8858dccb724b89
-S
-#mssc-beer-inventory-service/pom.xml,1\c\1cf02e4bbd1807a45946d3738f18918f31596cab
-O
-mssc-beer-order-service/pom.xml,9\1\91d1f1e65de4cdea49c65a4932a22bfeabbb50ba
 ¦
 vmssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java,6\6\6681195d0c1fda637871ffe26c6d24492de0daa5
 š
